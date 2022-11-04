@@ -52,6 +52,7 @@ console.log(decr--);
 
 console.log(++incr); // сразу отнимает и выводит
 console.log(--decr);
+console.log(++incr);
 
 console.log(5 % 2); //выводит остаток от деления двух сумм
 
